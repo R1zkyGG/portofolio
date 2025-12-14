@@ -58,4 +58,8 @@
 ls, cd, grep, awk, cat, less
 ps, top, netstat/ss, ifconfig/ip a
 ```
+<<<<<<< HEAD:5 pilar kopetensi inti/Jaringan dan OS.md
 * hak akses : memahami konsep ``` chmod ``` (hak akses) dan ``` chown ``` (kepemilikan file)
+=======
+* hak akses : memahami konsep ``` chmod ``` (hak akses) dan ``` chown ``` (kepemilikan file)
+>>>>>>> ae5d8f5a02ca394f4e078d95ba05f4f165e58b86:Jaringan dan OS.md
