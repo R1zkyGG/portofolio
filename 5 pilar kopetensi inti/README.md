@@ -1,5 +1,5 @@
-Folder ini berisi tentang 5 pilar kopensi inti cybersecurity.
-Tujuannya untuk memudahkan belajar yang terstruktur.
+- Folder ini berisi tentang 5 pilar kopensi inti cybersecurity.
+- Tujuannya untuk memudahkan belajar yang terstruktur.
 
 # Daftar utama 
 
