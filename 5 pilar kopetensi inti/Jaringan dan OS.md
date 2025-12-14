@@ -58,4 +58,4 @@
 ls, cd, grep, awk, cat, less
 ps, top, netstat/ss, ifconfig/ip a
 ```
-* hak akses : memahami konsep ```terminal chmod ``` (hak akses) dan ```terminal chown ``` (kepemilikan file)
+* hak akses : memahami konsep ``` chmod ``` (hak akses) dan ``` chown ``` (kepemilikan file)
